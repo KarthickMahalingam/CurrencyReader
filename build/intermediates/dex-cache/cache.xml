@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Temp\CurrencyReader\app\build\intermediates\incremental-runtime-classes\armv7\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Temp\CurrencyReader\app\build\intermediates\transforms\dex\armv7\debug\folders\1000\10000\instant-run_d6c6a88df4e9d1bd041c4527c2d1a11eef462379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Temp\CurrencyReader\app\build\intermediates\incremental-classes\armv7\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a1696cb984b305886c06b591bf2661b54246c8">
+        <dex dex="C:\Temp\CurrencyReader\app\build\intermediates\transforms\dex\armv7\debug\folders\1000\10000\instant-run-bootstrap_2a7eb57f5669ca3be7f6881740aabc5ce50c7409\classes.dex" />
+    </item>
+
+</items>
