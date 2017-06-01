@@ -1,0 +1,3 @@
+include ':app', 'opencv-320'
+include ':openCVLibrary320'
+include ':openCVLibrary320dev'
